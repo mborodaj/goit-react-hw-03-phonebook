@@ -1,0 +1,18 @@
+.filterContainer {
+  display: flex;
+  justify-content: center;
+
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.formLabel {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputForm {
+  width: 400px;
+  margin-bottom: 15px;
+}
